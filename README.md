@@ -20,3 +20,4 @@ In einem verteileten System ist die vollständige Projekthistorie in jedem lokal
 Der "Einkaufswagen" entspricht der Staging Area (Index),in die Änderungen für den nächsten commit gelegt werden.
 - _Frage:_ Welcher Befehl wird verwendet, um einen Schnappschuss des Einkaufswagens zu machen?
 Der Befehl git commit erstellt einen Schnappschuss des Einkaufswagens.
+## Feauture Branch
