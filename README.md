@@ -3,4 +3,5 @@
 Ein Commit speichert drei Dinge. Was sind sie?
 -Wer:wer hat die Änderung gemacht?
 -was:was wurde geändert
-warum:warum wurde es geändert
+-warum:warum wurde es geändert
+
