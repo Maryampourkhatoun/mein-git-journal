@@ -8,3 +8,9 @@ Ein Commit speichert drei Dinge. Was sind sie?
 Was ist der "Stamm" (trunk) des Baumes in der Terminologie der Versionskontrolle?
 Der Stamm ist der Hauptbranch eines Projekts,der die stabile Version enthält
 Antwort auf zweite Frage ergänzt
+## Architektur
+
+- _Frage:_ Was ist in einem zentralisierten System (wie einer Bibliothek) der "Single Point of Failure"?
+in einem zentralisiererten Sytem ist der zentrale Server der "single Point of Failure".Wenn er ausfällt,können alle ncht mehr arbeiten.
+- _Frage:_ Wo wird in einem verteilten System (wie Git) die vollständige Projekthistorie gespeichert?
+In einem verteileten System ist die vollständige Projekthistorie in jedem lokalen Repository gespeichert.
